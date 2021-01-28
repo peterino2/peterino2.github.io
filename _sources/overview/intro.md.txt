@@ -1,0 +1,6 @@
+# Pmake Reference
+
+## Execution model
+
+`pmake` will search for `pmakefile` (or `pmakefile.py` if pmake isn't found)
+

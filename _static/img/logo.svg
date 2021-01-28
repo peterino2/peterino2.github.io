@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="199.52139mm"
+   height="46.827976mm"
+   viewBox="0 0 199.52139 46.827976"
+   version="1.1"
+   id="svg2137"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2131">
+    <rect
+       x="-35.012306"
+       y="-10.423512"
+       width="4.2763124"
+       height="6.9490075"
+       id="rect2750" />
+    <rect
+       x="-107.70962"
+       y="-80.715401"
+       width="102.36423"
+       height="104.23512"
+       id="rect2744" />
+    <rect
+       x="17.386906"
+       y="35.529762"
+       width="130.0238"
+       height="81.64286"
+       id="rect2724" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#005fa0"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="351.05396"
+     inkscape:cy="253.1828"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(66.756255,47.673761)">
+    <g
+       id="g1927"
+       inkscape:export-filename="X:\Embersong\Source\documentation\source\_static\img\favicon-32x32.png"
+       inkscape:export-xdpi="13.58"
+       inkscape:export-ydpi="13.58"
+       transform="matrix(0.69362019,0,0,0.6417435,57.892144,12.360228)">
+      <g
+         id="Vector"
+         transform="matrix(0.86040224,0,0,0.72001883,-7.6941898,3009.9578)"
+         style="fill:#ffdd55;fill-opacity:1">
+        <mask
+           id="mask0_outline_ins">
+          <use
+             xlink:href="#path0_fill"
+             fill="#ffffff"
+             transform="translate(-209.549,-4316.67)"
+             id="use6"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             xlink:href="#path1_fill"
+             fill="#ffffff"
+             transform="translate(-209.549,-4316.67)"
+             id="use8"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             xlink:href="#path2_fill"
+             fill="#ffffff"
+             transform="translate(-209.549,-4316.67)"
+             id="use10"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </mask>
+        <path
+           style="opacity:1;fill:#ffdd55;fill-opacity:1;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:3.47815;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal"
+           d="m -166.75532,-4210.9157 35.06655,-86.2168 0.0439,61.0467 z"
+           id="path244"
+           inkscape:export-filename="C:\Users\zedex\Documents\Unreal Projects\Embersong\docs\build-html\_static\img\favicon-32x32.png"
+           inkscape:export-xdpi="67.956818"
+           inkscape:export-ydpi="67.956818" />
+        <path
+           style="opacity:1;fill:#ffdd55;fill-opacity:1;fill-rule:evenodd;stroke:#dcdcdc;stroke-width:3.83836;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal"
+           d="m -176.97263,-4210.8866 13.6257,-94.9991 -34.6553,49.9465 z"
+           id="path244-9"
+           inkscape:export-filename="C:\Users\zedex\Documents\Unreal Projects\Embersong\docs\build-html\_static\img\favicon-32x32.png"
+           inkscape:export-xdpi="67.956818"
+           inkscape:export-ydpi="67.956818" />
+      </g>
+      <path
+         style="fill:#ff7f2a;fill-opacity:1;stroke:#000000;stroke-width:0.474053px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+         d="m -140.93526,-85.200261 9.81595,-7.86638 0.49898,15.8234 -18.2645,38.93424 -1.81098,-7.63937 z"
+         id="path3639" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:0.565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-14.456158"
+       y="-19.653641"
+       id="text2730"><tspan
+         sodipodi:role="line"
+         id="tspan2728"
+         x="-14.456158"
+         y="-19.653641"
+         style="font-size:25.4px;fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:0.565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre';fill:#ff9955;stroke-width:0.565;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan2740">Embersong</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2742"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2744);" />
+    <text
+       xml:space="preserve"
+       id="text2748"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2750);" />
+  </g>
+</svg>
